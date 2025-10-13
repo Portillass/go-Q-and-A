@@ -5,12 +5,14 @@ package main // Difines the main package - entry poiny of evert Go Program
 
 import (
 	"fmt"
-	"example.com/goQandA/Q2"
+	"example.com/goQandA/Q2" //
 	"example.com/goQandA/Q3"
+	"example.com/goQandA/Q4"
 )
 func main() {
 	 	fmt.Println("Hello, World!") // Print Hello, World! to the console
 	Q2.Add()
 	Q3.Subtract()
+	Q4.Multiply() // Call the Multiply function from Q4 package
 }
 
