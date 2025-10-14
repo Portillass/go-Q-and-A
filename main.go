@@ -13,6 +13,13 @@ func main() {
 	 	fmt.Println("Hello, World!") // Print Hello, World! to the console
 	Q2.Add()
 	Q3.Subtract()
-	Q4.Multiply() // Call the Multiply function from Q4 package
+	Q4.Multiply() // Call the Multiply function from Q4
+
 }
+
+/*Q2: Write a Go program to add two numbers.*/
+
+package Q2 // Define the package name
+
+
 
