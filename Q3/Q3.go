@@ -5,7 +5,7 @@ package Q3 // import package
 
 
 
- func Subtract(){ // fucntion
+ func Subtract(){ // fucntions 
 	a, b := 10, 4
 	diff := a -b
 	fmt.Println("Difference:",diff)
