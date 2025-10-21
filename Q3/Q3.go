@@ -10,4 +10,4 @@ package Q3 // import package
 	a, b := 10, 4
 	diff := a -b
 	fmt.Println("Difference:",diff)
- }// end of tha code 
+ }// end of tha code haha
