@@ -5,7 +5,7 @@ package Q3 // import package
 
 
 
- func Subtract(){ // fucntions haha ews
+ func Subtract(){ // fucntions haha ewshaha
 
 	a, b := 10, 4
 	diff := a -b
