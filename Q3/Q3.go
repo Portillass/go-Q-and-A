@@ -1,13 +1,11 @@
-// Q3: Write Go porgram that subtracts two numbers.
+// Q3: Write a Go program that subtracts two numbers.
+package Q3
 
-package Q3 // import package
- import "fmt" 
+import "fmt"
 
-
-
- func Subtract(){ // fucntions haha ewshaha
-
-	a, b := 10, 4
-	diff := a -b
-	fmt.Println("Difference:",diff)
- }// end of tha code haha
+// Subtract is a function that subtracts two numbers and prints the result.
+func Subtract() {
+	a, b := 10, 4          // declare and initialize variables
+	diff := a - b          // perform subtraction
+	fmt.Println("Difference:", diff) // display result
+}
