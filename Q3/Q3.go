@@ -7,5 +7,5 @@ import "fmt"
 func Subtract() {
 	a, b := 10, 4          // declare and initialize variables
 	diff := a - b          // perform subtraction
-	fmt.Println("Difference:", diff) // display result
+	fmt.Println("Difference:", diff ) // dispt result
 }
